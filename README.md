@@ -31,9 +31,9 @@
 
 | # | 章节 |
 |---|------|
-| 8 | 漕运与海运 |
-| 9 | 克拉克瓷：第一件全球贸易货 |
-| 10 | 反向工程：Meissen、Wedgwood |
+| 8 | [漕运与海运](chapters/08-transport.md) |
+| 9 | [克拉克瓷：第一件全球贸易货](chapters/09-kraak.md) |
+| 10 | [反向工程：Meissen、Wedgwood](chapters/10-reverse-engineering.md) |
 
 ### 第四部 · 现代回望
 
