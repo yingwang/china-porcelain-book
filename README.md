@@ -24,7 +24,7 @@
 |---|------|
 | 4 | [七十二道工序](chapters/04-division.md) |
 | 5 | [官窑与民窑](chapters/05-imperial-folk.md) |
-| 6 | 质量控制：御瓷的检验 |
+| 6 | [质量控制](chapters/06-quality-control.md) |
 | 7 | 标准化与微变 |
 
 ### 第三部 · 流通
