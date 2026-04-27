@@ -16,7 +16,7 @@
 
 Böttger 原本是个**炼金术士**——也就是相信能把贱金属变成黄金的那种人。他生活在十七世纪末十八世纪初的德国，曾对外宣称自己掌握了点石成金的秘方。萨克森选帝侯 Augustus the Strong（强者奥古斯特，1670–1733）听说后很感兴趣，把他召到德累斯顿，专门为他设立工作室让他制造黄金。
 
-Böttger 当然没法真的造出黄金。Augustus 慢慢怀疑他是个骗子，但出于某种原因没有处死他，而是让他改做另一件事——研究如何烧出"白色硬质瓷"。Augustus 本人是个狂热的中国瓷器收藏家，据说藏品多达 35,000 件。让 Böttger 复制出中国瓷，对他来说价值不亚于黄金。
+Böttger 当然没法真的造出黄金。Augustus 慢慢怀疑他是个骗子，但出于某种原因没有处死他，而是让他改做另一件事——研究如何烧出"白色硬质瓷"。Augustus 本人是个狂热的中国和日本瓷器收藏家。到 1727 年，德累斯顿宫廷的亚洲瓷器收藏总量约 24,100 件，其中**中国瓷器 17,000 件**——是当时世界上最大的东亚瓷器收藏 [^A11]。让 Böttger 复制出中国瓷，对他来说价值不亚于黄金。
 
 这个安排意外地行得通。Böttger 从炼金术士的化学背景出发，结合萨克森本地物理学家 Ehrenfried Walter von Tschirnhaus（1651–1708）对高温窑炉的研究，开始系统试验各种黏土和岩石的组合。
 
@@ -84,7 +84,7 @@ Meissen 和 Wedgwood 代表了两种不同的反向工程路径：
 
 - **Meissen 反向工程的实物来源**是欧洲贵族收藏的中国瓷。Augustus the Strong 的 35,000 件中国瓷收藏让 Böttger 有充分的样本可供化学分析（敲碎一两件做胎、釉成分研究）
 - **Wedgwood 反向工程的对象**不只是中国瓷，还包括古罗马、古希腊的陶器（伦敦大英博物馆从 1759 年起开放，Wedgwood 多次在那里研究古代陶器）
-- **传教士传递的工艺知识**：中国传教士（如法国耶稣会士殷弘绪 François Xavier d'Entrecolles，1664–1741）从 1712 年到 1722 年间在中国传教期间，曾详细记录景德镇制瓷工艺并寄回法国。这些信件是欧洲了解中国瓷工艺的第一手资料
+- **传教士传递的工艺知识**：法国耶稣会士**殷弘绪**（François Xavier d'Entrecolles，1664 年生于里昂，1741 年卒于北京）于康熙朝在景德镇及其周边活动，写过两封关于景德镇制瓷工艺的著名信件——第一封 1712 年 9 月 1 日（在景德镇所在地写成），约 2 万字，详细记录瓷石与高岭土的二元配方、烧成工艺、当地风物；第二封 1722 年 1 月 25 日（自他重新调访景德镇后），补充了更多技术细节。两封信都寄回法国，被多个欧洲国家研究。殷弘绪还把高岭土样品寄回法国，引发欧洲对寻找本地高岭土的"狂热搜索"。这是欧洲第一次系统了解到中国瓷器工艺的核心配方 [^A12]
 
 这种知识扩散的路径——实物购买 + 化学分析 + 传教士信件 + 系统试验——构成了一条完整的反向工程链。它的速度大致是这样的：
 
@@ -112,6 +112,10 @@ Meissen 和 Wedgwood 代表了两种不同的反向工程路径：
 [^48]: Meissen 瓷器历史。Johann Friedrich Böttger（炼金术士）与 Ehrenfried Walter von Tschirnhaus（物理学家）于 1707–1708 年间发现欧洲第一件白色硬质瓷的烧制工艺；1708 年 1 月 15 日烧成第一件白瓷；1710 年 6 月 6 日 Augustus the Strong 建立 Meissen 瓷厂；1722 年引入"双剑交叉"商标（取自萨克森选帝侯纹章），是世界上最早连续使用至今的注册商标之一；至约 1756 年 Meissen 主导欧洲瓷器风格。Wikipedia: Meissen porcelain https://en.wikipedia.org/wiki/Meissen_porcelain
 
 [^49]: Wedgwood 与 Josiah Wedgwood (1730–1795)。1759 年 5 月 1 日在英格兰 Staffordshire 的 Burslem 创立 Wedgwood 瓷厂；引入系统性实验设计、分工细化、机械动力、品牌化营销、跨大陆销售网络；1770 年代推出 Jasperware；1812 年起生产骨瓷；产品销往欧洲（包括俄罗斯）和美洲。Wikipedia: Wedgwood https://en.wikipedia.org/wiki/Wedgwood；Wikipedia: Josiah Wedgwood https://en.wikipedia.org/wiki/Josiah_Wedgwood；V&A Museum *Wedgwood: An introduction* https://www.vam.ac.uk/articles/wedgwood-an-introduction
+
+[^A11]: Augustus the Strong 中国和亚洲瓷器收藏。到 1727 年，德累斯顿宫廷藏瓷数量已达 24,100 余件，其中中国瓷器 17,000 件，是当时世界上最大的东亚瓷器收藏。三亚博物馆《外销瓷特展｜17-18 世纪德累斯顿与奥古斯都二世》http://sanyamuseum.com/a/2/2024/0603/7035.html；澎湃新闻《从萨克森看德国｜"强力王"奥古斯特与德累斯顿》https://www.thepaper.cn/newsDetail_forward_1836329
+
+[^A12]: 殷弘绪（François Xavier d'Entrecolles，1664-1741），法国耶稣会士。1712 年 9 月 1 日和 1722 年 1 月 25 日先后从景德镇写两封长信回法国，详细记录瓷石+高岭土二元配方、烧成工艺；同时寄回高岭土样品。第一封信约 2 万字。这两封信是欧洲了解中国瓷工艺的最重要原始文献之一，对欧洲瓷器工业的反向工程产生了直接影响。Wikipedia: François Xavier d'Entrecolles https://en.wikipedia.org/wiki/Francois_Xavier_d'Entrecolles；维基百科"殷弘绪"条目 https://zh.wikipedia.org/zh-hans/%E6%AE%B7%E5%BC%98%E7%BB%AA
 
 ---
 
