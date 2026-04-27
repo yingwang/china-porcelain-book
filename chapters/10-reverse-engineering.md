@@ -16,6 +16,10 @@
 
 Böttger 原本是个**炼金术士**——也就是相信能把贱金属变成黄金的那种人。他生活在十七世纪末十八世纪初的德国，曾对外宣称自己掌握了点石成金的秘方。萨克森选帝侯 Augustus the Strong（强者奥古斯特，1670–1733）听说后很感兴趣，把他召到德累斯顿，专门为他设立工作室让他制造黄金。
 
+![Augustus II the Strong（强者奥古斯特），Louis de Silvestre 绘 1718 年](../images/ch10/augustus-the-strong-silvestre-1718.jpg)
+
+> 图 10.1　Augustus II the Strong（强者奥古斯特，1670–1733），萨克森选帝侯兼波兰国王，欧洲最大的中国瓷器收藏家、Meissen 瓷厂的创办人。Louis de Silvestre 绘于 1718 年。来源：Wikimedia Commons，公共领域。
+
 Böttger 当然没法真的造出黄金。Augustus 慢慢怀疑他是个骗子，但出于某种原因没有处死他，而是让他改做另一件事——研究如何烧出"白色硬质瓷"。Augustus 本人是个狂热的中国和日本瓷器收藏家。到 1727 年，德累斯顿宫廷的亚洲瓷器收藏总量约 24,100 件，其中**中国瓷器 17,000 件**——是当时世界上最大的东亚瓷器收藏 [^A11]。让 Böttger 复制出中国瓷，对他来说价值不亚于黄金。
 
 这个安排意外地行得通。Böttger 从炼金术士的化学背景出发，结合萨克森本地物理学家 Ehrenfried Walter von Tschirnhaus（1651–1708）对高温窑炉的研究，开始系统试验各种黏土和岩石的组合。
