@@ -2,7 +2,7 @@
 
 > 把中国瓷器从"工艺美术"重新放回"工业史"。
 
-**Languages**: [中文](README.md) | [English](en/README.md)
+**在线阅读**：[yingwang.github.io/china-porcelain-book](https://yingwang.github.io/china-porcelain-book/)
 
 景德镇从唐末到清末连续千年的生产，本质是人类历史上最早的、最完整的、规模最大的工业系统。它解决的所有问题——原料、能源、标准化、质量控制、分工、物流、海外销售、知识传承、被反向工程——和今天硅谷或台积电解决的问题是同一类问题。
 
@@ -55,8 +55,7 @@ Ying Wang
 
 ## 许可证
 
-- **正文与示意图**：[CC BY-NC-SA 4.0](LICENSE)
-- **代码片段**（如有）：[MIT](LICENSE-CODE)
+正文与示意图：[CC BY-NC-SA 4.0](LICENSE) — 署名 · 非商业 · 相同方式共享
 
 ---
 
