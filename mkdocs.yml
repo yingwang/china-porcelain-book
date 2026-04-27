@@ -1,0 +1,116 @@
+site_name: "瓷：中国第一个工业"
+site_description: "把中国瓷器从工艺美术重新放回工业史。从九世纪越窑到二十一世纪 CMC 的千年陶瓷工业演进。"
+site_url: https://yingwang.github.io/china-porcelain-book/
+repo_url: https://github.com/yingwang/china-porcelain-book
+repo_name: yingwang/china-porcelain-book
+edit_uri: edit/main/
+
+docs_dir: docs
+site_dir: _site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.top
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.expand
+    - toc.follow
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: blue grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: blue grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yingwang
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - mdx_truly_sane_lists
+  - toc:
+      permalink: true
+      permalink_title: 链接到此节
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - search:
+      lang:
+        - en
+        - zh
+
+nav:
+  - 首页: README.md
+  - 第 1 章 — 一座窑的极限: chapters/01-ru-kiln.md
+  - 第 2 章 — 火的工程: chapters/02-fire.md
+  - 第 3 章 — 釉的化学: chapters/03-glaze.md
+  - 第 4 章 — 七十二道工序: chapters/04-division.md
+  - 第 5 章 — 官窑与民窑: chapters/05-imperial-folk.md
+  - 第 6 章 — 质量控制: chapters/06-quality-control.md
+  - 第 7 章 — 标准化与微变: chapters/07-standardization.md
+  - 第 8 章 — 漕运与海运: chapters/08-transport.md
+  - 第 9 章 — 克拉克瓷: chapters/09-kraak.md
+  - 第 10 章 — 反向工程 Meissen / Wedgwood: chapters/10-reverse-engineering.md
+  - 第 11 章 — 景德镇今天: chapters/11-jingdezhen-today.md
+  - 第 12 章 — 当代陶瓷工程: chapters/12-modern-ceramics.md
+  - 第 13 章 — AI 看瓷器: chapters/13-ai-porcelain.md
+
+copyright: |
+  Copyright &copy; 2026 Ying Wang —
+  Prose <a href="https://github.com/yingwang/china-porcelain-book/blob/main/LICENSE">CC BY-NC-SA 4.0</a> ·
+  Code <a href="https://github.com/yingwang/china-porcelain-book/blob/main/LICENSE-CODE">MIT</a>
