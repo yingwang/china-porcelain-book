@@ -85,12 +85,11 @@
 
 几艘特别重要的沉船：
 
-- **Witte Leeuw（白狮号）**：1613 年荷兰东印度公司商船，载满克拉克瓷在大西洋圣赫勒拿岛附近沉没
-- **Hatcher Junk（哈彻号）**：1643 年明末沉船，载有上万件中国瓷器，1980 年代被打捞
-- **Geldermalsen（哥德马尔森号）**：1752 年荷兰商船，载克拉克瓷和茶叶在南海沉没，1985 年被打捞
-- **Diana**：1817 年英国商船，载青花瓷在马六甲海峡沉没
+- **Witte Leeuw（白狮号）**：1613 年沉没的荷兰东印度公司商船，载有克拉克瓷器。沉船位置在南大西洋圣赫勒拿岛附近。它的克拉克瓷样品是研究 17 世纪初期外销瓷的关键参照 [^A9]。
+- **Hatcher Junk（哈彻号）**：年代约 1643 年的中国 junk 帆船，沉没于南海巴达维亚（今雅加达）附近。1983 年由澳大利亚籍打捞家 Michael Hatcher 发现并打捞，从中获得约 **25,000 件未碎瓷器**——其中既有典型克拉克瓷，也有从晚明转向清初的"过渡期瓷器"（Transitional porcelain），是研究明清交替时期外销瓷的最大单一沉船样本 [^A9]。
+- **Geldermalsen（哥德马尔森号）**：1752 年 1 月 3 日返航途中在南海触礁沉没的荷兰东印度公司商船。1985 年由 Michael Hatcher 团队打捞——巧的是它沉没的那块礁石距 Hatcher 1983 年打捞的中国 junk 仅约一英里。该船货物 1986 年（按伦敦发布信息为 1985 年 4 月 28 日 –5 月 2 日）在 Christie's Amsterdam 拍卖，拍卖名 "**Nanking Cargo**"，引发当时国际收藏界轰动 [^A9]。
 
-沉船的考古价值在于它们是**时间胶囊**——一艘船的载货反映了某一年某条航线的瓷器贸易具体内容。打捞出的器物按船名分组，每组对应明确的年代、产地、运输方向，是研究当时贸易的最直接证据。
+沉船的考古价值在于它们是**时间胶囊**——一艘船的载货反映了某一年某条航线的瓷器贸易具体内容。打捞出的器物按船名分组，每组对应明确的年代、产地、运输方向，是研究当时贸易的最直接证据。Hatcher Junk 出水的 25,000 件、Geldermalsen 出水的 23 万件中国瓷器（含茶叶箱、金锭等其他货物），让 17–18 世纪的中欧瓷器贸易从档案估算变成了实物可见的具体场景。
 
 下一章我们看故事的另一端——欧洲对中国瓷器的渴求最终催生了什么：自己学会造瓷。这是 Meissen 和 Wedgwood 的故事，也是中国瓷器在欧洲市场最终被替代的故事。
 
@@ -101,6 +100,8 @@
 [^46]: 1602 年葡萄牙商船 Santa Catharina 号被荷兰东印度公司截获事件；货物在 Middelburg 和阿姆斯特丹拍卖；1602–1695 年间 VOC 运输中国瓷器约 2000 万件至欧洲。维基百科"克拉克瓷"条目 https://zh.wikipedia.org/zh/%E5%85%8B%E6%8B%89%E5%85%8B%E7%93%B7；搜狐《富有传奇色彩的中国克拉克瓷》https://www.sohu.com/a/451315117_729761
 
 [^47]: 克拉克瓷的产地与命名。"Kraak"得名自葡萄牙商船类型 Carrack 的荷兰语写法。中国境内主要产地包括福建漳州平和县（五寨东口、华仔楼、田坑、大岭、二岭等窑址）和景德镇民窑。凤凰网研究文章《吴若明：克拉克瓷名辨及海上丝路贸易区域功用研究》https://ishare.ifeng.com/c/s/7lzmPSoLuDo
+
+[^A9]: 17–18 世纪外销瓷沉船的打捞与拍卖。Witte Leeuw 1613 年沉没；Hatcher Junk 约 1643 年沉没，1983 年由 Michael Hatcher 打捞约 25,000 件瓷器；Geldermalsen 1752 年 1 月 3 日触礁沉没，1985 年 Michael Hatcher 团队打捞，1986 年由 Christie's Amsterdam 以"Nanking Cargo"名义拍卖。Pater Gratia Oriental Art *The Nanking Cargo, 1752* https://www.patergratiaorientalart.com/home/106；Pater Gratia *The Hatcher Junk (1643-1646)* https://www.patergratiaorientalart.com/home/1838；NUMA *Nanking Cargo: Riches From the Orient* https://numa.net/2017/06/nanking-cargo-riches-from-the-orient/
 
 ---
 
