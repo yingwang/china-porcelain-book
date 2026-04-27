@@ -52,6 +52,7 @@ jobs:
           cp -r chapters/. docs/chapters/
           cp stylesheets/extra.css docs/stylesheets/extra.css
           cp javascripts/mathjax.js docs/javascripts/mathjax.js
+          if [ -d images ]; then mkdir -p docs/images && cp -r images/. docs/images/; fi
 
       - name: Insert blank line before lazy bullet lists (GitHub-style)
         run: |
