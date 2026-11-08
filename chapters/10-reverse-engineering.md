@@ -120,9 +120,3 @@ Meissen 和 Wedgwood 代表了两种不同的反向工程路径：
 [^A11]: Augustus the Strong 中国和亚洲瓷器收藏。到 1727 年，德累斯顿宫廷藏瓷数量已达 24,100 余件，其中中国瓷器 17,000 件，是当时世界上最大的东亚瓷器收藏。三亚博物馆《外销瓷特展｜17-18 世纪德累斯顿与奥古斯都二世》http://sanyamuseum.com/a/2/2024/0603/7035.html；澎湃新闻《从萨克森看德国｜"强力王"奥古斯特与德累斯顿》https://www.thepaper.cn/newsDetail_forward_1836329
 
 [^A12]: 殷弘绪（François Xavier d'Entrecolles，1664-1741），法国耶稣会士。1712 年 9 月 1 日和 1722 年 1 月 25 日先后从景德镇写两封长信回法国，详细记录瓷石+高岭土二元配方、烧成工艺；同时寄回高岭土样品。第一封信约 2 万字。这两封信是欧洲了解中国瓷工艺的最重要原始文献之一，对欧洲瓷器工业的反向工程产生了直接影响。Wikipedia: François Xavier d'Entrecolles https://en.wikipedia.org/wiki/Francois_Xavier_d'Entrecolles；维基百科"殷弘绪"条目 https://zh.wikipedia.org/zh-hans/%E6%AE%B7%E5%BC%98%E7%BB%AA
-
----
-
-> 起稿：2026-04-27
-> 字数：约 5400
-> 状态：10.1–10.7 完成。文献编号 [^48]–[^49]、[^A11]–[^A12] 已对照公开来源补全。下一稿可继续核查：殷弘绪信件的法文原本与多国译本流转细节；Wedgwood 实验笔记的当代研究综述。

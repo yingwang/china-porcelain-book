@@ -106,9 +106,3 @@
 [^47]: 克拉克瓷的产地与命名。"Kraak"得名自葡萄牙商船类型 Carrack 的荷兰语写法。中国境内主要产地包括福建漳州平和县（五寨东口、华仔楼、田坑、大岭、二岭等窑址）和景德镇民窑。凤凰网研究文章《吴若明：克拉克瓷名辨及海上丝路贸易区域功用研究》https://ishare.ifeng.com/c/s/7lzmPSoLuDo
 
 [^A9]: 17–18 世纪外销瓷沉船的打捞与拍卖。Witte Leeuw 1613 年沉没；Hatcher Junk 约 1643 年沉没，1983 年由 Michael Hatcher 打捞约 25,000 件瓷器；Geldermalsen 1752 年 1 月 3 日触礁沉没，1985 年 Michael Hatcher 团队打捞，1986 年由 Christie's Amsterdam 以"Nanking Cargo"名义拍卖。Pater Gratia Oriental Art *The Nanking Cargo, 1752* https://www.patergratiaorientalart.com/home/106；Pater Gratia *The Hatcher Junk (1643-1646)* https://www.patergratiaorientalart.com/home/1838；NUMA *Nanking Cargo: Riches From the Orient* https://numa.net/2017/06/nanking-cargo-riches-from-the-orient/
-
----
-
-> 起稿：2026-04-27
-> 字数：约 5200
-> 状态：9.1–9.7 完成。文献编号 [^46]–[^47] 已对照公开来源补全。下一稿可继续核查：荷兰东印度公司具体年份的进口数据；漳州平和窑址群的考古发掘报告；几艘代表性沉船的具体打捞年份和文物去向。
